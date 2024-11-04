@@ -1,4 +1,6 @@
-from logic import expr, FolKB
+from logic import *
+from utils import *
+
 from collections import deque
 
 class WumpusKnowledge:
